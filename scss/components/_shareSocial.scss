@@ -1,0 +1,48 @@
+ul.shareList, ul.shareSocial{
+	margin-bottom:0;
+}
+.shareSocial{
+	list-style-type: none;
+}
+.shareSocial li{
+	position:relative;
+	display: inline-block;
+}
+.shareList {
+	position: absolute;
+	display: none;
+  padding: 0;
+	top:100%;
+	text-align: left;
+	background-color: $color-secondary;
+	height: 41px;
+	@media all and (min-width: 337px) {
+		position: static;
+	}
+	@media all and (min-width: 480px) {
+		position: absolute;
+		width: 100vw;
+	}
+}
+.shareList li {
+	display: inline;
+	top:5px;
+	left:0;
+	right:0;
+}
+.share:hover .shareList{
+	display: block;
+}
+.share-item img{
+	display:inline-block;
+	width: 26px;
+	height: auto;
+}
+.share-item a{
+	text-decoration: none;
+}
+li.share-item {
+  width: 100%;
+	margin-left: 10px;
+	margin-right: 5px;
+}
