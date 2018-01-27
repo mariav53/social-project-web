@@ -40,6 +40,22 @@
   position: relative;
   flex-wrap: wrap;
 }
+
+.buttons-container1{
+	// padding-top: 30px;
+	display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  flex-wrap: wrap;
+	@media all and (min-width: 1039px){
+		padding-bottom: 10px;
+	}
+	@media all and (min-width: 480px){
+		padding-bottom: 10px;
+	}
+
+}
 /*boton más información*/
 .btn--info, .btn--yellow {
 	background: $color-primary;

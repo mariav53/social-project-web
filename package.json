@@ -25,9 +25,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com:Adalab/clarke-s3-kiss.git"
+		"url": "git+ssh://git@github.com:mariav53/social-project-web.git"
 	},
 	"author": "Adalab",
 	"license": "MIT",
-	"homepage": "https://github.com/Adalab/clarke-s3-kiss"
+	"homepage": "https://github.com/mariav53/social-project-web"
 }

@@ -2,7 +2,7 @@
 Create a website to communicate a social project
 
 ## Proyecto 3: Web de diseminación de proyecto social
-En este proyecto colaboramos con la Federación de Mujeres Progresistas en el diseño y desarrollo de una web para la difusión de su Programa de Empleo Joven.
+En este proyecto colaboramos con la [Federación de Mujeres Progresistas](http://fmujeresprogresistas.org/) en el diseño y desarrollo de una web para la difusión de su Programa de Empleo Joven.
 
 ## Especificaciones
 **Se desarrollará una página web con las siguientes características:**
@@ -18,3 +18,17 @@ En este proyecto colaboramos con la Federación de Mujeres Progresistas en el di
 - Deberá cumplir los requisitos establecidos al inicio del proyecto (briefing)
 - Deberá tener los estilos escritos con Sass
 - Deberá contener un componente interactivo que usa JavaScript
+
+**Integrantes del equipo**
+
+Aida Albarrán
+
+Eva Llorca
+
+Gala Calero
+
+Marta Aguilar
+
+Maria Viginia Rivas
+
+[Repositorio original](https://github.com/Adalab/clarke-s3-kiss)
